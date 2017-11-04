@@ -1,6 +1,6 @@
 {
   "name": "im_testing_it",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is my testing module, please don't install it",
   "main": "index.js",
   "scripts": {
