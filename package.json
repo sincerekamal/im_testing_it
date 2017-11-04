@@ -1,10 +1,11 @@
 {
   "name": "im_testing_it",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is my testing module, please don't install it",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "postinstall.js"
   },
   "author": "Kamalakannan Jayaraman",
   "license": "MIT"
