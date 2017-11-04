@@ -1,0 +1,11 @@
+{
+  "name": "im_testing_it",
+  "version": "1.0.0",
+  "description": "This is my testing module, please don't install it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kamalakannan Jayaraman",
+  "license": "MIT"
+}
